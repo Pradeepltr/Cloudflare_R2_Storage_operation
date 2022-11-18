@@ -1,5 +1,5 @@
  ### **R2 Image storage operation**
- You can add image in Cloudflare R2 database and alo retrive your image with the help of your file name.
+ You can add image in Cloudflare R2 database and also retrive your image with the help of your file name.
 
  >>#### **Steps**
  >>> **Step 1**
